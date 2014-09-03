@@ -1,4 +1,5 @@
-TestingGithub
+We are going test
 =============
 
-We are testing
+Testin some of github features.
+Janez Šarlah
